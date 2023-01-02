@@ -1,0 +1,6 @@
+projectKey=6_django_ecommerce
+serverUrl=http://localhost:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://localhost:9000/dashboard?id=6_django_ecommerce
+ceTaskId=AYVKrlOOvo3v1Cgnnwtn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYVKrlOOvo3v1Cgnnwtn
