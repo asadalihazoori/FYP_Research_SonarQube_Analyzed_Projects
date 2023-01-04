@@ -1,0 +1,1 @@
+https://github.com/avilum/flask-mongo-boilerplate.git
